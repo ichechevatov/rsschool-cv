@@ -8,7 +8,7 @@
                      * *GCD*
 5. **Code examples:** * [ GitHub ] (https://github.com/ichechevatov/SharesBrowser.git)
                                       * [ GitHub ] (https://github.com/ichechevatov/FoodOrderCodeUI.git)
-6. **Experience:** *no*
+6. **Experience:** *learn projects only*
 7. **Education:** *youtube*
 8. **English:**  *A0*
                      
